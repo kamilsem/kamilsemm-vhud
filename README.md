@@ -1,5 +1,7 @@
 # Kamilsemm-vhud
 
+<img width="960" alt="kamilsemm-vhud banner: a gun room straight on, the racks mirrored on both sides" src="image.png">
+
 `Kamilsemm-vhud` is a QBCore, ESX and Qbox compatible HUD resource for FiveM. It combines the player
 status HUD, vehicle HUD, circular minimap, compass, location information and a
 custom waypoint distance indicator in one resource.
